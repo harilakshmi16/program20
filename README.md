@@ -7,4 +7,4 @@ print("the sum is:",s)
 Output:
 enter the limit:3
 the sum is: 2
-Pgm 17:
+
